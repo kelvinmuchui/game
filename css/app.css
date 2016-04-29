@@ -289,3 +289,7 @@ button.btn-default:before {
     button.btn-default:after {
   border-color: #757575 transparent #757575 #757575;
     }
+
+#form{
+  background-color: rgba(0,0,0,0.5);
+}
