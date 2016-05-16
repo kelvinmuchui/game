@@ -430,3 +430,6 @@ ul#social a:hover {
 	75% { -webkit-transform:scale(1.2,1.2); opacity:0.3;}
 	100%{ -webkit-transform:scale(0,0); opacity:0;}
 }
+.row{
+    max-width: 100%;
+}
