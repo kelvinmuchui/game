@@ -307,3 +307,6 @@ background-color: aqua;
 
     text-align: center;
 }
+.row{
+    max-width: 100%
+}
